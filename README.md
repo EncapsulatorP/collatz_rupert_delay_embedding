@@ -21,6 +21,12 @@ GitHub does not render `<iframe>` embeds inside `README.md`.
 Open the live interactive page here:
 
 [https://kugguk2022.github.io/collatz_rupert_delay_embedding/](https://kugguk2022.github.io/collatz_rupert_delay_embedding/)
+
+Local HTML (works on your machine):
+[file:///C:/Users/inger/Downloads/collatz_n27_funnel.html](file:///C:/Users/inger/Downloads/collatz_n27_funnel.html)
+
+Repo HTML file:
+[docs/assets/collatz_n27_funnel.html](docs/assets/collatz_n27_funnel.html)
         
 ## Install
 Plain Python:
