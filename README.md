@@ -6,7 +6,10 @@
 [![Interactive Demo](https://img.shields.io/badge/demo-GitHub%20Pages-ff8c00?style=flat-square)](https://kugguk2022.github.io/collatz_rupert_delay_embedding/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-4bb6ff?style=flat-square)](https://www.python.org/)
 [![Plotly](https://img.shields.io/badge/plotly-interactive-00e5cc?style=flat-square)](https://plotly.com/python/)
-[![alt text](preview.png)](https://kugguk2022.github.iocollatz_rupert_delay_embedding/)
+
+## Preview
+
+[![Collatz Rupert Delay Embedding Preview](docs/assets/preview.png)](https://kugguk2022.github.io/collatz_rupert_delay_embedding/)
 ---
 
 ## Overview
