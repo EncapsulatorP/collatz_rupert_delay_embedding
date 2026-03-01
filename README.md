@@ -12,6 +12,24 @@
 [![Collatz Rupert Delay Embedding Preview](docs/assets/preview.png)](https://kugguk2022.github.io/collatz_rupert_delay_embedding/)
 ---
 
+## Why This Matters Now
+
+This project is positioned as a **post-2025 geometric reformulation** effort, not just
+another Collatz visualizer. In particular, it is motivated by the Noperthedron-era
+discussion (Steininger & Yurkevich, 2025) that renewed interest in Rupert-style
+geometric encodings of arithmetic dynamics.
+
+The working teaser conjecture for this repo is:
+
+> For the delay-hull family built from Collatz trajectories, convergence behavior should
+> be equivalent to eventual geometric stabilization (Rupert-admissible finite horizons),
+> while non-convergent behavior should force non-compact or non-Rupert limit geometry.
+
+This is a research program statement, not a proved theorem here; see
+`docs/CLAIMS_AND_NONCLAIMS.md` for exact claim boundaries.
+
+---
+
 ## Overview
 
 This repository studies the Collatz trajectory of **n = 27** — the first integer with a
@@ -244,6 +262,8 @@ theory and analytic number theory and is an active area of research.
 - Tao, T. (2019). *Almost all Collatz orbits attain almost bounded values.* arXiv:1909.03562.
 - Ireland & Rosen. *A Classical Introduction to Modern Number Theory* — Ch. 4 (primitive roots).
 - Takens, F. (1981). *Detecting strange attractors in turbulence.* Lecture Notes in Mathematics.
+- Steininger & Yurkevich (2025). *Noperthedron* line of work (contextual motivation for
+  Rupert-style geometric reformulations; treated as program context here, not as a proved implication).
 
 ---
 
