@@ -15,6 +15,9 @@ This repo is an **experimental testbed** for encoding Collatz-orbit structure in
 - A proof of any equivalence between Collatz convergence and Rupert’s property.
 - A complete Rupert decision procedure.
 
+<iframe src="https://kugguk2022.github.io/collatz_rupert_delay_embedding/"
+        width="100%" height="620" frameborder="0" allowfullscreen></iframe>
+        
 ## Install
 Plain Python:
 
