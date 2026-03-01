@@ -33,6 +33,16 @@ Generate a polytope and export OBJ:
 python scripts/generate_polytope.py --n 27 --N 500 --mode normalized --out examples/n27.obj
 ```
 
+Render a PNG preview (tracked in-repo):
+
+```bash
+python scripts/render_polytope_png.py --n 27 --N 500 --mode normalized --out docs/assets/n27_polytope.png
+```
+
+### n=27 Polytope Preview
+
+![Collatz delay-embedding convex hull for n=27](docs/assets/n27_polytope.png)
+
 Run a simple projection-containment proxy:
 
 ```bash
